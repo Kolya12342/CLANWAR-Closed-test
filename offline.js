@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543857205,
+	"version": 1543873504,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,8 @@
 		"images/sprite29-sheet0.png",
 		"images/sprite30-sheet0.png",
 		"images/sprite32-sheet0.png",
+		"images/sprite33-sheet0.png",
+		"media/m4a1-1.ogg",
 		"media/clanwar - official soundtrack.ogg",
 		"icon-16.png",
 		"icon-32.png",
